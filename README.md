@@ -1,1 +1,1 @@
-# libreOfficeSetReadOnlyProtection
+Устанавливает парольную защиту на изменение всех файлов в заданном каталоге с помощью xdotool и LibreOffice
